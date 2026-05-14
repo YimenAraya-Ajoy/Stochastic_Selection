@@ -67,8 +67,6 @@ The data were collected at Wytham Woods, Oxford, UK. Each row represents a singl
 | `cs` | Clutch size (number of eggs) |
 | `layday` | Date of first egg (day of year) |
 | `hatchdate` | Hatch date (day of year) |
-| `surv` | Number of nestlings surviving to fledging |
-| `fledgelings` | Number of fledglings |
 | `recruit` | Number of offspring recruiting to the breeding population the following year |
 
 > **Access:** The Wytham Woods great tit data are managed by the University of Oxford.
