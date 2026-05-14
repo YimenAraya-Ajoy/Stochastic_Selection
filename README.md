@@ -1,7 +1,5 @@
 # Predicting long-term evolutionary outcomes from fluctuating selection estimates
 
-> **Revisiting the optimal clutch size in stochastic environments**
-
 Code to accompany:
 
 > *Predicting long-term evolutionary outcomes from fluctuating selection estimates: revisiting the optimal clutch size in stochastic environments*
